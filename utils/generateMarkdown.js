@@ -59,30 +59,38 @@ function generateMarkdown(data) {
 
 
 
-
+  ## App Name 
+  ${data.aapname}
 
   ## license  
   ${renderLicenseBadge(data.license)}
-  ## App Name 
-  ${data.projectname}
+
+  ## Github
+  ${data.username}
   ## Email :- 
   ${data.email}
 
   ## Installations
 
-  ${data.installation}
+  ${data.dependencies}
 
   ## Description
   ${data.description}
+
   ## Usage
   ${data.usage}
+
   ## Tests
   ${data.test}
-  ## Dependencies
-  ${data.dependencies}
+
+ 
+  
+
   ## Contributing
-  ${data.contributuion}
+
+  ${data.contribution}
   ## Questions
+ 
     What is your Github uername 
     What is the command to run dependencies 
     What is your Github uername

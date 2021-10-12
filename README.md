@@ -1,5 +1,5 @@
-# 
-  ## Github username 
+# NOde knowldefe
+  ## Github username SSingh
 
   ## Table of Contents
   [Description](#description)
@@ -21,30 +21,38 @@
 
 
 
-
+  ## App Name 
+  App name
 
   ## license  
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-  ## App Name 
-  undefined
+
+  ## Github
+  SSingh
   ## Email :- 
-  
+  shamsherturna101@gmail.com
 
   ## Installations
 
-  undefined
+  npm i
 
   ## Description
-  
+  This is a good readmegenerator
+
   ## Usage
-  
+  nogthinh
+
   ## Tests
+  nothing
+
+ 
   
-  ## Dependencies
-  
+
   ## Contributing
-  undefined
+
+  nothing
   ## Questions
+ 
     What is your Github uername 
     What is the command to run dependencies 
     What is your Github uername
