@@ -1,4 +1,4 @@
-# NOde knowldefe
+# Node knowledge
   ## Github username SSingh
 
   ## Table of Contents
@@ -37,13 +37,13 @@
   npm i
 
   ## Description
-  This is a good readmegenerator
+  This is a good readme genertaor
 
   ## Usage
-  nogthinh
+  nothing
 
   ## Tests
-  nothing
+  test
 
  
   
