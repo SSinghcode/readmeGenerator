@@ -1,8 +1,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) 
-{
-  let license1= license;
+function renderLicenseBadge(license) {
+  let license1 = license;
 
   // ["MIT","APACHE 2.0","GPL 3.0","BSD 3","None"],
 
@@ -22,7 +21,7 @@ function renderLicenseBadge(license)
       return '[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)]'
       break;
     case "None":
-      return` ""`
+      return ` ""`
       break;
     default:
       return '""'
@@ -81,9 +80,21 @@ function generateMarkdown(data) {
   ${data.test}
   ## Dependencies
   ${data.dependencies}
-  ## contribution
+  ## Contributing
   ${data.contributuion}
-
+  ## Questions
+    What is your Github uername 
+    What is the command to run dependencies 
+    What is your Github uername
+    What is your email address 
+    What is your APP name 
+    Please write short description  of your project 
+    What kind of license should your project have MIIT
+    What is the title of the project        
+    What is the command to run dependencies 
+    What is the command to run tests
+    What does user need to know about using the repo?
+    What does user need to know about contributing to the repo? 
 `;
 }
 
