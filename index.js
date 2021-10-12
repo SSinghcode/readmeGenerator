@@ -1,5 +1,9 @@
 // TODO: Include packages needed for this application
-
+const fs = require("fs");
+const path = require("path");
+const inquirer = require("inquirer");
+const generateFile = require("./utils/generateMarkdown");
+const Choices = require("inquirer/lib/objects/choices");
 // TODO: Create an array of questions for user input
 const questions = [];
 
